@@ -4,8 +4,8 @@ package Task::Kensho::ExcelCSV;
 BEGIN {
   $Task::Kensho::ExcelCSV::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34-TRIAL-37-g47458f2
-$Task::Kensho::ExcelCSV::VERSION = '0.34001'; # TRIAL
+# git description: v0.34001-TRIAL-11-g86ed10b
+$Task::Kensho::ExcelCSV::VERSION = '0.34002'; # TRIAL
 # ABSTRACT: Excel/CSV
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::ExcelCSV - Excel/CSV
 
 =head1 VERSION
 
-version 0.34001
+version 0.34002
 
 =head1 SYNOPSIS
 

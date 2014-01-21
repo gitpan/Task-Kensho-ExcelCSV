@@ -4,7 +4,7 @@ Task::Kensho::ExcelCSV - Excel/CSV
 
 # VERSION
 
-version 0.34001
+version 0.34002
 
 # SYNOPSIS
 
