@@ -4,7 +4,7 @@ Task::Kensho::ExcelCSV - A Glimpse at an Enlightened Perl: Excel/CSV
 
 # VERSION
 
-version 0.34003
+version 0.34004
 
 # SYNOPSIS
 

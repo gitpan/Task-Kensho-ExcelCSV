@@ -4,8 +4,8 @@ package Task::Kensho::ExcelCSV;
 BEGIN {
   $Task::Kensho::ExcelCSV::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34002-TRIAL-16-g00d6871
-$Task::Kensho::ExcelCSV::VERSION = '0.34003'; # TRIAL
+# git description: v0.34003-TRIAL-10-g9df2e78
+$Task::Kensho::ExcelCSV::VERSION = '0.34004'; # TRIAL
 # ABSTRACT: A Glimpse at an Enlightened Perl: Excel/CSV
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::ExcelCSV - A Glimpse at an Enlightened Perl: Excel/CSV
 
 =head1 VERSION
 
-version 0.34003
+version 0.34004
 
 =head1 SYNOPSIS
 
