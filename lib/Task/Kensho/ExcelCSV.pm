@@ -1,8 +1,8 @@
 use strict;
 use warnings;
 package Task::Kensho::ExcelCSV;
-# git description: v0.36-25-g47364ce
-$Task::Kensho::ExcelCSV::VERSION = '0.37';
+# git description: v0.37-27-gb3d822f
+$Task::Kensho::ExcelCSV::VERSION = '0.38';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Excel/CSV
 
 __END__
@@ -17,7 +17,7 @@ Task::Kensho::ExcelCSV - A Glimpse at an Enlightened Perl: Excel/CSV
 
 =head1 VERSION
 
-version 0.37
+version 0.38
 
 =head1 SYNOPSIS
 
